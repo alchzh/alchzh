@@ -12,11 +12,6 @@ Hi, I'm (Al)bert
   </ul>
 </details>
 
-#### Cool Projects:
-- [Catppuccin](https://github.com/catppuccin/catppuccin)
-- [Vencord Desktop](https://github.com/Vencord/Vesktop)
-- [houmain/keymapper](https://github.com/houmain/keymapper)
-
 
 <hr>
 
