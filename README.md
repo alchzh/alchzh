@@ -1,14 +1,15 @@
 Hi, I'm (Al)bert
 ================
 
-- Currently studying Astrophysics 🌌 and Computer Science 🧑‍💻 at Columbia University
+- I work on cool stuff like [OFRAK](https://github.com/redballoonsecurity/ofrak) at [Red Balloon Security](https://redballoonsecurity.com)
+- I studied Astrophysics 🌌 and Computer Science 🧑‍💻 at Columbia University
 - Hunting for neutrino and gravitational wave coincidences with LLAMA [@markalab](https://github.com/markalab) and [@icecube](https://github.com/icecube)
 
 <details>
 <summary>How to Contact Me</summary>
   <ul>
     <li>Tag me somewhere on GitHub</li>
-    <li>Email me at acz2122 (at) columbia (dot) edu</li>
+    <li>Email me at bert (at) alchzh (dot) me</li>
   </ul>
 </details>
 
