@@ -22,8 +22,10 @@ with my [OpenPGP key](#gpg-key) or [SSH signing keys](#ssh-signing-key). You can
 <a name="ssh-signing-key"></a>
 <details>
   <summary>SSH signing keys</summary>
-  <code>ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA4O+v1S0eDh9H+S3VE7YT5Px5H7NSLtX11L8scZolRr alchzh</code>
-  <code>ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOllJGhTrtUzGmFWKu/wxj8Vh+x/+7Ytm2ti0+YxFBtX alchzh RBS</code>
+  <ul>
+    <li><code>ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA4O+v1S0eDh9H+S3VE7YT5Px5H7NSLtX11L8scZolRr alchzh</code></li>
+    <li><code>ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOllJGhTrtUzGmFWKu/wxj8Vh+x/+7Ytm2ti0+YxFBtX alchzh RBS</code></li>
+  </ul>
 </details>
 
 
