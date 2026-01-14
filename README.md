@@ -1,7 +1,7 @@
 Hi, I'm (Al)bert
 ================
 
-- I work on cool stuff like [OFRAK](https://github.com/redballoonsecurity/ofrak) at [Red Balloon Security](https://redballoonsecurity.com)
+- I'm working on global payouts infrastructure at [Dots](https://usedots.com)
 - I studied Astrophysics 🌌 and Computer Science 🧑‍💻 at Columbia University
 - Hunting for neutrino and gravitational wave coincidences with LLAMA [@markalab](https://github.com/markalab) and [@icecube](https://github.com/icecube)
 
