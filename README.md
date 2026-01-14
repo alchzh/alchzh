@@ -17,7 +17,7 @@ Hi, I'm (Al)bert
 <hr>
 
 _Any commits I make after Dec 4, 2023 will show as [Verified on Github](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
-with my [OpenPGP key](#gpg-key) or [SSH signing keys](#ssh-signing-key). You can assume commits from before this date are real._
+with my [OpenPGP key](https://github.com/alchzh.gpg) or [SSH signing keys](#ssh-signing-key). You can assume commits from before this date are real._
 
 <a name="ssh-signing-key"></a>
 <details>
